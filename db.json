@@ -1,0 +1,380 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere@april.biz",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Apt. 556",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-37.3159",
+          "lng": "81.1496"
+        }
+      },
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      },
+      "courses": [
+        2,
+        15
+      ],
+      "wishlist": [
+        5,
+        7,
+        19
+      ],
+      "cart": {
+        "items": [
+          {
+            "itemId": 6,
+            "quantity": 4
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Ervin Howell",
+      "username": "Antonette",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Suite 879",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593 x09125",
+      "website": "anastasia.net",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      },
+      "courses": [
+        3,
+        10
+      ],
+      "wishlist": [
+        7
+      ],
+      "cart": {
+        "items": [
+          {
+            "itemId": 2,
+            "quantity": 1
+          },
+          {
+            "itemId": 6,
+            "quantity": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Clementine Bauch",
+      "username": "Samantha",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Suite 847",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "website": "ramiro.info",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      },
+      "courses": [],
+      "wishlist": [],
+      "cart": {
+        "items": [
+          {
+            "itemId": 6,
+            "quantity": 12
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Patricia Lebsack",
+      "username": "Karianne",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Apt. 692",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 x156",
+      "website": "kale.biz",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      },
+      "courses": [],
+      "wishlist": [
+        1,
+        8
+      ],
+      "cart": {
+        "items": []
+      }
+    },
+    {
+      "id": 5,
+      "name": "Chelsey Dietrich",
+      "username": "Kamren",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Suite 351",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "website": "demarco.info",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      },
+      "courses": [
+        1,
+        8
+      ],
+      "wishlist": [],
+      "cart": {
+        "items": [
+          {
+            "itemId": 2,
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Demo product",
+      "author": "User Name",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
+      "price": 35
+    },
+    {
+      "id": 2,
+      "name": "Demo product2",
+      "author": "User Name 2",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
+      "price": 60
+    },
+    {
+      "id": 3,
+      "name": "Demo product3",
+      "author": "User Name 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
+      "price": 125.21
+    },
+    {
+      "id": 4,
+      "name": "Demo product 4",
+      "author": "User Name 4",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
+      "price": 12
+    },
+    {
+      "id": 5,
+      "name": "Demo product 5",
+      "author": "User Name 5",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
+      "price": 34
+    },
+    {
+      "id": 6,
+      "name": "Demo product 6",
+      "author": "User Name 6",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
+      "price": 15.50
+    },
+    {
+      "id": 7,
+      "name": "Demo product 7",
+      "author": "User Name 7",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
+      "price": 76
+    },
+    {
+      "id": 8,
+      "name": "Demo product 8",
+      "author": "User Name 8",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
+      "price": 156
+    },
+    {
+      "id": 9,
+      "name": "Demo product 9",
+      "author": "User Name 9",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
+      "price": 41
+    },
+    {
+      "id": 10,
+      "name": "Demo product 10",
+      "author": "User Name 10",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
+      "price": 52
+    },
+    {
+      "id": 11,
+      "name": "Demo product 11",
+      "author": "User Name 11",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
+      "price": 34
+    },
+    {
+      "id": 12,
+      "name": "Demo product 12",
+      "author": "User Name 12",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
+      "price": 19.90
+    },
+    {
+      "id": 13,
+      "name": "Demo product 13",
+      "author": "User Name 13",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
+      "price": 50
+    },
+    {
+      "id": 14,
+      "name": "Demo product 14",
+      "author": "User Name 14",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
+      "price": 51
+    },
+    {
+      "id": 15,
+      "name": "Demo product 15",
+      "author": "User Name 15",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
+      "price": 125.21
+    },
+    {
+      "id": 16,
+      "name": "Demo product 16",
+      "author": "User Name 16",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
+      "price": 16
+    },
+    {
+      "id": 17,
+      "name": "Demo product 17",
+      "author": "User Name 17",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
+      "price": 50
+    },
+    {
+      "id": 18,
+      "name": "Demo product 18",
+      "author": "User Name 18",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
+      "price": 39.80
+    },
+    {
+      "id": 19,
+      "name": "Demo product 19",
+      "author": "User Name 19",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
+      "price": 19
+    },
+    {
+      "id": 20,
+      "name": "Demo product20",
+      "author": "User Name 20",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
+      "price": 46
+    },
+    {
+      "id": 21,
+      "name": "Demo product21",
+      "author": "User Name 21",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
+      "price": 100
+    },
+    {
+      "id": 22,
+      "name": "Demo product 22",
+      "author": "User Name 22",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
+      "price": 49
+    },
+    {
+      "id": 23,
+      "name": "Demo product 23",
+      "author": "User Name 23",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
+      "price": 84
+    },
+    {
+      "id": 24,
+      "name": "Demo product 24",
+      "author": "User Name 24",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
+      "price": 18
+    }
+  ]
+}
