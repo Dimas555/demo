@@ -7,7 +7,8 @@
       "author": "User Name",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
-      "price": 35
+      "price": 35,
+      "updatedAt": 1588061288745
     },
     {
       "id": 2,
@@ -15,7 +16,8 @@
       "author": "User Name 2",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
-      "price": 60
+      "price": 60,
+      "updatedAt": 1588061288745
     },
     {
       "id": 3,
@@ -23,7 +25,8 @@
       "author": "User Name 3",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
-      "price": 125.21
+      "price": 125.21,
+      "updatedAt": 1588061288745
     },
     {
       "id": 4,
@@ -31,7 +34,8 @@
       "author": "User Name 4",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
-      "price": 12
+      "price": 12,
+      "updatedAt": 1588061288745
     },
     {
       "id": 5,
@@ -39,7 +43,8 @@
       "author": "User Name 5",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
-      "price": 34
+      "price": 34,
+      "updatedAt": 1588061288745
     },
     {
       "id": 6,
@@ -47,7 +52,8 @@
       "author": "User Name 6",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
-      "price": 15.50
+      "price": 15.50,
+      "updatedAt": 1588061288745
     },
     {
       "id": 7,
@@ -55,7 +61,8 @@
       "author": "User Name 7",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
-      "price": 76
+      "price": 76,
+      "updatedAt": 1588061288745
     },
     {
       "id": 8,
@@ -63,7 +70,8 @@
       "author": "User Name 8",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
-      "price": 156
+      "price": 156,
+      "updatedAt": 1588061288745
     },
     {
       "id": 9,
@@ -71,7 +79,8 @@
       "author": "User Name 9",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
-      "price": 41
+      "price": 41,
+      "updatedAt": 1588061288745
     },
     {
       "id": 10,
@@ -79,7 +88,8 @@
       "author": "User Name 10",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
-      "price": 52
+      "price": 52,
+      "updatedAt": 1588061288745
     },
     {
       "id": 11,
@@ -87,7 +97,8 @@
       "author": "User Name 11",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
-      "price": 34
+      "price": 34,
+      "updatedAt": 1588061288745
     },
     {
       "id": 12,
@@ -95,7 +106,8 @@
       "author": "User Name 12",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
-      "price": 19.90
+      "price": 19.90,
+      "updatedAt": 1588061288745
     },
     {
       "id": 13,
@@ -103,7 +115,8 @@
       "author": "User Name 13",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
-      "price": 50
+      "price": 50,
+      "updatedAt": 1588061288745
     },
     {
       "id": 14,
@@ -111,7 +124,8 @@
       "author": "User Name 14",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
-      "price": 51
+      "price": 51,
+      "updatedAt": 1588061288745
     },
     {
       "id": 15,
@@ -119,7 +133,8 @@
       "author": "User Name 15",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
-      "price": 125.21
+      "price": 125.21,
+      "updatedAt": 1588061288745
     },
     {
       "id": 16,
@@ -127,7 +142,8 @@
       "author": "User Name 16",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
-      "price": 16
+      "price": 16,
+      "updatedAt": 1588061288745
     },
     {
       "id": 17,
@@ -135,7 +151,8 @@
       "author": "User Name 17",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
-      "price": 50
+      "price": 50,
+      "updatedAt": 1588061288745
     },
     {
       "id": 18,
@@ -143,7 +160,8 @@
       "author": "User Name 18",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
-      "price": 39.80
+      "price": 39.80,
+      "updatedAt": 1588061288745
     },
     {
       "id": 19,
@@ -151,7 +169,8 @@
       "author": "User Name 19",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
-      "price": 19
+      "price": 19,
+      "updatedAt": 1588061288745
     },
     {
       "id": 20,
@@ -159,7 +178,8 @@
       "author": "User Name 20",
       "description": "Lorem ipsum dolor sit amet",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White.png",
-      "price": 46
+      "price": 46,
+      "updatedAt": 1588061288745
     }
   ]
 }
