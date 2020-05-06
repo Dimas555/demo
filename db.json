@@ -129,21 +129,21 @@
     },
     {
       "id": 15,
-      "name": "Demo product 15",
+      "name": "Demo product 15*",
       "author": "User Name 15",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
       "price": 125.21,
-      "updatedAt": 1588061288750
+      "updatedAt": 1588061288751
     },
     {
       "id": 16,
-      "name": "Demo product 16*",
+      "name": "Demo product 16",
       "author": "User Name 16",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
       "price": 16,
-      "updatedAt": 1588061288749
+      "updatedAt": 1588061288750
     },
     {
       "id": 17,
