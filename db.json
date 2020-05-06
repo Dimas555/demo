@@ -20,6 +20,15 @@
       "updatedAt": 1588061288758
     },
     {
+      "id": 3,
+      "name": "Demo product3",
+      "author": "User Name 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
+      "image": "https://art.nativescript-vue.org/NativeScript-Vue-White-Green.png",
+      "price": 125.21,
+      "updatedAt": 1588061288745
+    },
+    {
       "id": 4,
       "name": "Demo product 4",
       "author": "User Name 4",
