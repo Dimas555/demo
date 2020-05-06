@@ -138,12 +138,12 @@
     },
     {
       "id": 16,
-      "name": "Demo product 16",
+      "name": "Demo product 16*",
       "author": "User Name 16",
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae error, id in ipsam itaque porro quibusdam sint vero? Est illo optio repudiandae vero voluptatum? Aliquam atque cum itaque nesciunt tempora.",
       "image": "https://art.nativescript-vue.org/NativeScript-Vue-Black.png",
       "price": 16,
-      "updatedAt": 1588061288748
+      "updatedAt": 1588061288749
     },
     {
       "id": 17,
